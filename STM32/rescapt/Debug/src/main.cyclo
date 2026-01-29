@@ -1,0 +1,8 @@
+core_cm3.h:1524:22:NVIC_SetPriority	2
+core_cm3.h:1616:22:NVIC_SystemReset	1
+core_cm3.h:1656:26:SysTick_Config	2
+main.c:58:5:main	1
+main.c:291:6:can_callback	2
+main.c:313:6:HAL_TIM_PeriodElapsedCallback	1
+main.c:330:6:VL6180x_Init	1
+main.c:359:6:VL6180x_Step	13

@@ -1,0 +1,8 @@
+util.c:4:6:num2str	7
+util.c:35:14:str2num	10
+util.c:51:6:reverse	2
+util.c:64:5:intToStr	3
+util.c:83:6:float2str	2
+util.c:108:8:myPow	4
+util.c:129:6:flush_ch	2
+util.c:140:5:size_ch	3

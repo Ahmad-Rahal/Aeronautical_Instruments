@@ -1,0 +1,16 @@
+dynamixel.c:50:9:dxl_getPresentVelocity	2
+dynamixel.c:63:10:dxl_getPresentPosition	2
+dynamixel.c:76:9:dxl_getBaudRate	2
+dynamixel.c:85:9:dxl_getFirmwareVersion	2
+dynamixel.c:94:9:dxl_getModelNumber	2
+dynamixel.c:106:6:dxl_LED	1
+dynamixel.c:116:6:dxl_torque	1
+dynamixel.c:126:6:dxl_setOperatingMode	1
+dynamixel.c:136:6:dxl_setBaudrate	1
+dynamixel.c:146:6:dxl_factoryReset	1
+dynamixel.c:157:6:dxl_setGoalVelocity	1
+dynamixel.c:168:6:dxl_setGoalPosition	1
+dynamixel.c:179:5:dxl_sendPacket	2
+dynamixel.c:214:10:dxl_updateCRC	2
+dynamixel.c:255:6:dxl_rcv_cb	1
+dynamixel.c:275:5:dxl_readPacket	20
